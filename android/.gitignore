@@ -92,9 +92,7 @@ capacitor-cordova-android-plugins
 # Copied web assets
 app/src/main/assets/public
 
-# Keystore
-debug.keystore
-keystore.properties
+
 
 # Google Services
 google-services.json
